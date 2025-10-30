@@ -1,4 +1,4 @@
-#TextSmart
+# TextSmart
 
 ### Objective:
 - Python microservice to summarize and categorize text documents using NLP techniques.
